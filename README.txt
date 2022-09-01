@@ -11,3 +11,4 @@ You will need to install a few libraries in order for the code to work. Some of 
 - darkdetect
 
 All the libraries mentioned above can be downloaded easily via a pip install.
+You will need both python files to be in the same folder before running the ReadROOTGUI
